@@ -1,0 +1,28 @@
+
+
+body
+{
+  background-color: #F7ECDE;
+}
+hr
+{
+  background-color: #F7ECDE;
+  border-color: #9ED2C6;
+  border-style:  dotted none none; /*https://developer.mozilla.org/en-US/docs/Web/CSS/border-style */
+
+  border-width: 7px;
+  height: 5px;
+  width: 5%;
+}
+
+h1
+{
+  color: #319DA0;
+}
+
+h3
+{
+  color: #319DA0;
+  text-decoration: underline;
+
+}
